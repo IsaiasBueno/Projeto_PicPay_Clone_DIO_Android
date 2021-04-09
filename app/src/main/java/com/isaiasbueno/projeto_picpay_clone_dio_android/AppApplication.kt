@@ -1,4 +1,4 @@
-package com.isaiasbueno.projeto_picpay_clone_dio_android.ui
+package com.isaiasbueno.projeto_picpay_clone_dio_android
 
 import android.app.Application
 import com.isaiasbueno.projeto_picpay_clone_dio_android.di.daoModule
