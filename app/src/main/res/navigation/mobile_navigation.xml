@@ -34,7 +34,7 @@
             tools:layout="@layout/fragment_transferencia">
         <argument
                 android:name="usuario"
-                app:argType="com.isaiasbueno.projeto_picpay_clone_dio_android.data.Usuario" />
+                app:argType="br.com.dio.picpayclone.data.Usuario" />
         <action
                 android:id="@+id/action_navigation_transferencia_to_navigation_pagar"
                 app:destination="@id/navigation_pagar"
