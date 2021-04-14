@@ -9,3 +9,5 @@ Courotines;
 Koin;
 Navigation;
 Room.
+
+A API utilizada está no repositório: https://github.com/IsaiasBueno/Projeto_PicpayClone_DIO
